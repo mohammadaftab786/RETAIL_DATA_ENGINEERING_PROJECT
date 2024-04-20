@@ -6,3 +6,4 @@ pyspark
 findspark
 mysql-connector-python
 pandas
+matplotlib
